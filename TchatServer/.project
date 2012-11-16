@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>TchatServer</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Causeur.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/TchatClient/src/Causeur.java</locationURI>
+		</link>
+		<link>
+			<name>src/Output.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/TchatClient/src/Output.java</locationURI>
+		</link>
+		<link>
+			<name>src/Phrases.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/TchatClient/src/Phrases.java</locationURI>
+		</link>
+		<link>
+			<name>src/Room.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/TchatClient/src/Room.java</locationURI>
+		</link>
+		<link>
+			<name>src/RoomException.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/TchatClient/src/RoomException.java</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
